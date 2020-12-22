@@ -15,3 +15,4 @@ mi = str(now.minute)
 ss = str(now.second)
 
 print "Date du jour :" + mm + "/" + dd + "/" + yyyy + " " + hour + ":" + mi + ":" + ss
+ADD 3 
